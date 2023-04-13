@@ -13,6 +13,6 @@ Run - python landmarks_and_bounding_box.py
 
 Input - input images folder path
 
-Output - path of folder where the bounding box and landmark drawn images should save and csv where the image name, bounding boxes and landmarks are written.
+Output - path of folder where the bounding box and landmark drawn images should save. Csv will be saved with the name of input folder and extenstion, consists of image name, bounding boxes and landmarks.
 
 Run - python landmarks_and_bounding_box_with_csv.py
