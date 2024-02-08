@@ -1,0 +1,3 @@
+b3379e4400fb2aba0eac4b21cdd3aaef_ref_crop
+1
+108 186 512 760 0.99578357 

@@ -1,0 +1,3 @@
+50bbf1f30aba38ff3d61614da99dedde_ref_crop
+1
+80 132 371 493 0.99961203 

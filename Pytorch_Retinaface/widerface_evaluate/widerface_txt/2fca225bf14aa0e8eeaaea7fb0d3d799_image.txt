@@ -1,0 +1,3 @@
+2fca225bf14aa0e8eeaaea7fb0d3d799_image
+1
+120 130 229 296 0.9999008 

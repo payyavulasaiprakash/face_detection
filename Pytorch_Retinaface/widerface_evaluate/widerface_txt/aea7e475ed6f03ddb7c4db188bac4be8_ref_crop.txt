@@ -1,0 +1,3 @@
+aea7e475ed6f03ddb7c4db188bac4be8_ref_crop
+1
+124 295 773 1013 0.9995301 

@@ -1,0 +1,3 @@
+1f153d39e8540bbcf4fe4bc68fda9fec_ref_crop
+1
+63 111 451 581 0.987263 

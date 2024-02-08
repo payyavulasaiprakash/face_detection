@@ -1,0 +1,3 @@
+995de2f0c58c4adb4ae62f045ebab8cc_ref_crop
+1
+107 154 476 655 0.9994773 

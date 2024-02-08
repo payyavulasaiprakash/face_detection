@@ -1,0 +1,3 @@
+6a8fcfb9250eef2c7e6560bca8ced6f8_ref_crop
+1
+92 185 457 594 0.99965703 

@@ -1,0 +1,3 @@
+d8e8bc7a48ccbff28e10b5f25ffef82e_ref_crop
+1
+76 165 445 571 0.9997353 

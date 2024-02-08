@@ -1,0 +1,3 @@
+27b9c2ccbc8ffadadc74e41e943c1bb7_ref_crop
+1
+122 156 442 629 0.9979462 

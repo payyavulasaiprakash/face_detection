@@ -1,0 +1,3 @@
+4830cef96bb3dbeae2e0fdaab8033e9f_ref_crop
+1
+104 220 499 597 0.99943143 

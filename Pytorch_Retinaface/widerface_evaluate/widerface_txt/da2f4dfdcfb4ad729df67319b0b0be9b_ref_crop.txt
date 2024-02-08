@@ -1,0 +1,3 @@
+da2f4dfdcfb4ad729df67319b0b0be9b_ref_crop
+1
+108 142 529 708 0.9971355 

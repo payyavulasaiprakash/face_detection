@@ -1,0 +1,3 @@
+9be1c4cda30ccd6dec4e3fdbf8b09330_ref_crop
+1
+78 169 466 604 0.99960715 

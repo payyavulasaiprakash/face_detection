@@ -1,0 +1,3 @@
+fdb0abe7b66ff9c702b0db30a3bed1a6_ref_crop
+1
+81 127 339 471 0.99965286 

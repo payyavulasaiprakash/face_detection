@@ -1,0 +1,3 @@
+6a3fafdb7d1bba09e187deba6769f32b_ref_crop
+1
+153 284 678 874 0.9995407 

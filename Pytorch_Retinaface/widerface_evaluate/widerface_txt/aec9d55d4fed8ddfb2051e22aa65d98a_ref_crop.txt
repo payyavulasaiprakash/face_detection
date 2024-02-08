@@ -1,0 +1,3 @@
+aec9d55d4fed8ddfb2051e22aa65d98a_ref_crop
+1
+120 237 632 787 0.999089 

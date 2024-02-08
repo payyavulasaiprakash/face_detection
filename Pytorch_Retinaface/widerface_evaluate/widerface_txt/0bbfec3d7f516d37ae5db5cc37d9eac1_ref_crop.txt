@@ -1,0 +1,3 @@
+0bbfec3d7f516d37ae5db5cc37d9eac1_ref_crop
+1
+144 223 606 884 0.99851197 

@@ -1,0 +1,3 @@
+0c9325a6ccb321b2c51eecf4fbafba11_ref_crop
+1
+70 137 362 443 0.99964786 

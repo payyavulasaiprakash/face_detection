@@ -1,0 +1,3 @@
+acebd089ff497f75d62aff8d99c3ffdf_ref_crop
+1
+60 133 433 563 0.9992418 

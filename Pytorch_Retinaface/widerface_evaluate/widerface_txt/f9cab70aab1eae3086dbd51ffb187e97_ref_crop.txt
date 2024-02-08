@@ -1,0 +1,3 @@
+f9cab70aab1eae3086dbd51ffb187e97_ref_crop
+1
+106 145 471 632 0.997954 

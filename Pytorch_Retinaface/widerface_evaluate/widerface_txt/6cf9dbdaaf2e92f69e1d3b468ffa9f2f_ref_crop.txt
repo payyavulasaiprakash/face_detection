@@ -1,0 +1,3 @@
+6cf9dbdaaf2e92f69e1d3b468ffa9f2f_ref_crop
+1
+72 219 565 671 0.9993637 

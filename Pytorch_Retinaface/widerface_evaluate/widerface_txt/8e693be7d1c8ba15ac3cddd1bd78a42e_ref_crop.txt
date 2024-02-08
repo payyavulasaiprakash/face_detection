@@ -1,0 +1,3 @@
+8e693be7d1c8ba15ac3cddd1bd78a42e_ref_crop
+1
+39 69 183 245 0.9993604 

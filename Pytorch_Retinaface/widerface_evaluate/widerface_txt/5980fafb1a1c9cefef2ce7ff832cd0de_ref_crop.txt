@@ -1,0 +1,3 @@
+5980fafb1a1c9cefef2ce7ff832cd0de_ref_crop
+1
+82 141 394 572 0.9990381 
